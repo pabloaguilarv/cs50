@@ -1,0 +1,11 @@
+sort1 uses: Bubble
+
+How do you know?: By plotting results, sorted time for this one is better than the third's but in the other scenarios (Random and reverse) takes the most time.
+
+sort2 uses: Merge
+
+How do you know?: In all the scenarios has the best time.
+
+sort3 uses: Selection
+
+How do you know?: Because it has better time than the first except when the data is sorted.
